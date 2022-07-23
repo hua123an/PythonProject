@@ -1,3 +1,5 @@
+#判断字符串类型
+
 str = "hello world 666"  #输入要判断的字符串
 
 print(str.isalnum())  #判断所有字符都是字母或数字
